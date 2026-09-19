@@ -75,6 +75,7 @@
           </option>
           <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1287,7 +1288,7 @@
       <links>
         <slidelink slideid="_player.5pxuJ2r1aUe" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5pxuJ2r1aUe.5rCgwEtG2Kx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5pxuJ2r1aUe.5rCgwEtG2Kx" displaytext="home" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
